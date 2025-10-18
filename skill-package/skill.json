@@ -19,13 +19,13 @@
       "isAvailableWorldwide": true,
       "locales": {
         "en-US": {
-          "description": "Sample skill using the AudioPlayer interface",
+          "description": "My Music Assistant skill",
           "examplePhrases": [
-            "Alexa open audio player sample"
+            "Alexa open audio player"
           ],
           "keywords": [],
-          "name": "Audioplayer sample",
-          "summary": "Sample Short Description"
+          "name": "Audioplayer",
+          "summary": "My Music Assistant Alexa Skill"
         }
       },
       "testingInstructions": "Sample Testing Instructions."
